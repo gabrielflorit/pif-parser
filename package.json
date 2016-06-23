@@ -1,0 +1,23 @@
+{
+  "name": "pif-parser",
+  "version": "0.0.0",
+  "description": "Parse FCC Public Inspection Files PDFs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielflorit/pif-parser.git"
+  },
+  "keywords": [
+    "FCC",
+    "OPIF"
+  ],
+  "author": "Gabriel Florit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielflorit/pif-parser/issues"
+  },
+  "homepage": "https://github.com/gabrielflorit/pif-parser#readme"
+}
