@@ -1,5 +1,8 @@
-export default (text) => {
+import wmur from './wmur.js'
 
-	console.log('asdf')
-
+const options = {
+	'wmur': wmur,
 }
+
+export default ({ text, station }) =>
+	options[station](text)
